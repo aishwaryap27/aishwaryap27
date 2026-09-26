@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Aishwarya 👋
 
-<!--
-**aishwaryap27/aishwaryap27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student focused on Backend Development and Software Engineering.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+Java | Python | SQL
+
+### Backend
+Spring Boot | Spring Data JPA | Hibernate | REST APIs | Microservices
+
+### Databases
+MySQL
+
+### DevOps & Tools
+Docker | Git | GitHub | GitHub Actions | Postman
+
+### Core CS
+Data Structures & Algorithms | OOP | DBMS | Operating Systems | Computer Networks
+
+## 🌱 Currently Learning
+
+Docker | Kubernetes | CI/CD | System Design
